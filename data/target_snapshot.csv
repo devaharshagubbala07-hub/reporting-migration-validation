@@ -1,0 +1,50 @@
+metric,period,plan,cohort,value,unit,time_basis,denominator,filters
+allowed_cost,2024,PPO,All enrolled,4932374.6400,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+member_months,2024,PPO,All enrolled,7032,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2024,PPO,All enrolled,701.4185,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2024,PPO,All enrolled,8.8591,percent,incurred_calendar_year,enrolled_members,providers=all;status=eligible
+admissions_per_1000,2024,PPO,All enrolled,45.6376,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=all;status=eligible
+risk_score,2024,PPO,All enrolled,0.9866,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+allowed_cost,2024,PPO,Continuous enrollment,3454037.1600,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+member_months,2024,PPO,Continuous enrollment,5124,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2024,PPO,Continuous enrollment,674.0900,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2024,PPO,Continuous enrollment,12.6464,percent,incurred_calendar_year,enrolled_members,providers=all;status=eligible
+admissions_per_1000,2024,PPO,Continuous enrollment,46.8384,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=all;status=eligible
+risk_score,2024,PPO,Continuous enrollment,1.0570,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+allowed_cost,2024,HDHP,All enrolled,4952287.0200,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+member_months,2024,HDHP,All enrolled,6102,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2024,HDHP,All enrolled,811.5842,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2024,HDHP,All enrolled,29.9401,percent,incurred_calendar_year,enrolled_members,providers=all;status=eligible
+admissions_per_1000,2024,HDHP,All enrolled,41.9162,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=all;status=eligible
+risk_score,2024,HDHP,All enrolled,1.0989,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+allowed_cost,2024,HDHP,Continuous enrollment,3619855.9300,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+member_months,2024,HDHP,Continuous enrollment,4188,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2024,HDHP,Continuous enrollment,864.3450,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2024,HDHP,Continuous enrollment,36.1032,percent,incurred_calendar_year,enrolled_members,providers=all;status=eligible
+admissions_per_1000,2024,HDHP,Continuous enrollment,40.1646,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=all;status=eligible
+risk_score,2024,HDHP,Continuous enrollment,1.2790,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+allowed_cost,2025,PPO,All enrolled,not_available,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2025,PPO,All enrolled,996.6516,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2025,PPO,All enrolled,37.3656,percent,incurred_calendar_year,members_with_claims,providers=all;status=eligible
+admissions_per_1000,2025,PPO,All enrolled,59.1398,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=top10;status=eligible
+risk_score,2025,PPO,All enrolled,1.3816,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+allowed_cost,2025,PPO,Continuous enrollment,2519712.0000,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+member_months,2025,PPO,Continuous enrollment,2496,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2025,PPO,Continuous enrollment,1009.5000,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2025,PPO,Continuous enrollment,28.8462,percent,incurred_calendar_year,enrolled_members,providers=all;status=eligible
+admissions_per_1000,2025,PPO,Continuous enrollment,134.6154,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=all;status=eligible
+risk_score,2025,PPO,Continuous enrollment,1.2490,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+allowed_cost,2025,HDHP,All enrolled,4491884.4000,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+member_months,2025,HDHP,All enrolled,6210,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2025,HDHP,All enrolled,723.3308,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2025,HDHP,All enrolled,0.408403,proportion,incurred_calendar_year,enrolled_members,providers=all;status=eligible
+admissions_per_1000,2025,HDHP,All enrolled,38.6555,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=all;status=eligible
+risk_score,2025,HDHP,All enrolled,0.9975,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+allowed_cost,2025,HDHP,Continuous enrollment,3866068.8000,USD,incurred_calendar_year,not_applicable,providers=all;status=eligible
+member_months,2025,HDHP,Continuous enrollment,5280,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible
+pmpm,2025,HDHP,Continuous enrollment,732.2100,USD/member/month,incurred_calendar_year,enrolled_member_months,providers=all;status=eligible
+members_with_episode_pct,2025,HDHP,Continuous enrollment,42.5000,percent,incurred_calendar_year,enrolled_members,providers=all;status=eligible
+admissions_per_1000,2025,HDHP,Continuous enrollment,29.5455,admissions/1000 members,incurred_calendar_year,enrolled_members/1000,providers=all;status=eligible
+risk_score,2025,HDHP,Continuous enrollment,0.8920,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+risk_score,2025,PPO,All enrolled,1.3816,score,incurred_calendar_year,scored_members,providers=all;status=eligible
+member_months,2026,PPO,All enrolled,4800,member-months,incurred_calendar_year,not_applicable,providers=all;status=eligible

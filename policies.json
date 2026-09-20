@@ -1,0 +1,8 @@
+{
+  "allowed_cost": {"unit": "USD", "absolute_tolerance": "0.01", "integer": false},
+  "member_months": {"unit": "member-months", "absolute_tolerance": "0", "integer": true},
+  "pmpm": {"unit": "USD/member/month", "absolute_tolerance": "0.01", "integer": false},
+  "members_with_episode_pct": {"unit": "percent", "absolute_tolerance": "0.01", "integer": false},
+  "admissions_per_1000": {"unit": "admissions/1000 members", "absolute_tolerance": "0.1", "integer": false},
+  "risk_score": {"unit": "score", "absolute_tolerance": "0.001", "integer": false}
+}
